@@ -1,10 +1,10 @@
 0x07. Python - Test-driven development
 ======================================
 
--   By Guillaume
+-   By Ralph
 -   Weight: 1
--   Ongoing project - started 12-09-2021, must end by 12-15-2021 (in 5 days) - you're done with 0% of tasks.
--   Checker will be released at 12-15-2021 06:00 AM
+-   Ongoing project - started 8-1-2023, must end by 12-15-2021 (in 5 days) - you're done with 0% of tasks.
+-   Checker will be released at 8-1-2023 06:00 AM
 -   QA review fully automated.
 
 Concepts
