@@ -1,7 +1,7 @@
 0x03. Python - Data Structures: Lists, Tuples
 =============================================
 
--   By Guillaume
+-   By Guillaume RBedition
 
 Resources
 ---------
