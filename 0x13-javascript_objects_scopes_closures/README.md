@@ -81,7 +81,7 @@ Tasks
 
 ### 0\. Rectangle #0
 
-mandatory
+Mandatory
 
 Write an empty class `Rectangle` that defines a rectangle:
 
@@ -228,7 +228,7 @@ guillaume@ubuntu:~/0x13$
 
 ### 3\. Rectangle #3
 
-mandatory
+Mandatory
 
 Write a class `Rectangle` that defines a rectangle:
 
@@ -251,13 +251,7 @@ const r2 = new Rectangle(10, 5);
 r2.print();
 
 guillaume@ubuntu:~/0x13$ ./3-main.js
-XX
-XX
-XX
-XXXXXXXXXX
-XXXXXXXXXX
-XXXXXXXXXX
-XXXXXXXXXX
+
 XXXXXXXXXX
 guillaume@ubuntu:~/0x13$
 
