@@ -348,9 +348,7 @@ XXXX
 XXXX
 XXXX
 XXXXXXXX
-XXXXXXXX
-XXXXXXXX
-XXXXXXXX
+
 guillaume@ubuntu:~/0x13$
 
 ```
@@ -362,7 +360,6 @@ guillaume@ubuntu:~/0x13$
 -   File: `5-square.js`
 
  Done? Help Check your code Get a sandbox
-
 ### 6\. Square #1
 
 mandatory
