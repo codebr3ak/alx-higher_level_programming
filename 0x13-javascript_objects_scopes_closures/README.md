@@ -382,13 +382,7 @@ s1.charPrint('C');
 
 guillaume@ubuntu:~/0x13$ ./6-main.js
 XXXX
-XXXX
-XXXX
-XXXX
-CCCC
-CCCC
-CCCC
-CCCC
+
 guillaume@ubuntu:~/0x13$
 
 ```
@@ -425,7 +419,6 @@ guillaume@ubuntu:~/0x13$ ./7-main.js
 guillaume@ubuntu:~/0x13$
 
 ```
-
 **Repo:**
 
 -   GitHub repository: `alx-higher_level_programming`
